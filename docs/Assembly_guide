@@ -1,0 +1,24 @@
+As the first step of spider robot assembly, all servo motors must be set to their center position (usually 90 degrees). Upload a basic Arduino code to move each servo to this neutral position.
+
+When you upload the centering code, the servos need power to move to and hold the 90-degree (neutral) position. If the robot is not powered on, the servos won’t respond, and you won’t be able to attach the servo horns accurately.
+
+So the correct sequence is:
+
+Upload the basic position of servo motors Arduino code.
+  
+Select the board and port. If the code does not upload, select the processor as ATmega328P (Old Bootloader). After that, upload the code.
+
+Power on the spider  robot (make sure the servo  motors get power).
+  
+Let all servos move to the center position.
+  
+Place the leg parts as shown in the assembly image.
+  
+servo zero 1
+Leg parts aligned and servo horns fixed at 90° position (up)
+servo zero 2
+Leg parts aligned and servo horns fixed at 90° position (front)
+servo zero3
+Leg parts aligned and servo horns fixed at 90° position (back)
+  
+Attach the servo horns while keeping everything still.
