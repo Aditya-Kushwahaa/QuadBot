@@ -46,7 +46,7 @@ This project combines robotics, embedded systems, inverse kinematics, and wirele
 ![QuadBot](images/quadbot.jpg)
 
 ### Circuit Diagram
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram](https://github.com/Aditya-Kushwahaa/QuadBot/blob/514b53383b6c0a228a09a8d842468cae11b98fb4/circuit_diagram.png)
 
 ---
 
