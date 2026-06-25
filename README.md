@@ -137,7 +137,6 @@ Control the robot using an Android smartphone.
 QuadBot/
 │
 ├── README.md
-├── LICENSE
 │
 ├── code/
 │   ├── Basic_Movement/
