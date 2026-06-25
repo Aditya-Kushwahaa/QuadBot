@@ -227,6 +227,15 @@ GND → GND
 ⚠️ Never power all 12 servos directly from the Arduino Nano.
 
 ---
+## Source Code
+
+| Folder | Description |
+|----------|-------------|
+| code/Basic_Movement | Basic walking and gesture movements |
+| code/Obstacle_Avoidance | Autonomous navigation using ultrasonic sensing |
+| code/Bluetooth_Control | Wireless control using HC-05 Bluetooth module |
+
+---
 
 ## 🎯 Future Improvements
 
